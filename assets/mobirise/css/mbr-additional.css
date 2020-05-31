@@ -1595,34 +1595,6 @@ section.lazy-placeholder:after {
     opacity: 1;
   }
 }
-.cid-rMvVJRcIq0 {
-  background-image: url("../../../assets/images/spring-down-comforter-sale.png");
-}
-.cid-rMvVJRcIq0 .mbr-arrow {
-  background: #232323 !important;
-  opacity: .7;
-}
-.cid-rMvVJRcIq0 .mbr-arrow i {
-  color: #ffffff !important;
-}
-.cid-rMvVJRcIq0 .underline .line {
-  width: 2rem;
-  height: 1px;
-  background: #ffffff;
-  display: inline-block;
-}
-.cid-rMvVJRcIq0 .animated-element,
-.cid-rMvVJRcIq0 .typed-cursor {
-  color: #ffffff;
-}
-.cid-rMvVJRcIq0 .animated-element {
-  border-bottom: 5px solid #f7aa4a;
-}
-@media (max-width: 767px) {
-  .cid-rMvVJRcIq0 .typed-text {
-    text-align: center;
-  }
-}
 .cid-ra4l36EHLQ {
   background-image: url("../../../assets/images/wabenlogo-1440x1080.jpg");
 }
