@@ -17294,6 +17294,26 @@ section.lazy-placeholder:after {
     margin-left: 0;
   }
 }
+.cid-s0L1OLM2KS {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-s0L1OLM2KS .container-fluid {
+  padding: 0 3rem;
+}
+.cid-s0L1OLM2KS .media-container-column {
+  padding: 0 2rem;
+}
+.cid-s0L1OLM2KS .mbr-section-title {
+  display: inline-block;
+  position: relative;
+}
+@media (max-width: 767px) {
+  .cid-s0L1OLM2KS .container-fluid {
+    padding: 0 1rem;
+  }
+}
 .cid-rUfrYUzx3Z {
   padding-top: 90px;
   padding-bottom: 90px;
